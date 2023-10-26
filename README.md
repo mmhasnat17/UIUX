@@ -4,7 +4,7 @@
 
 Hi, I am Hasnat. Welcome here. If this is your first time, please go through this file to learn more.
 
-This file contains sketches, and low-fidelity, and high-fidelity wireframes of the Mobile App and e-commerce website created using Figma.
+This file contains sketches, low-fidelity, and high-fidelity wireframes of the Mobile App and e-commerce website created using Figma.
 
 ## Mobile App WireFrame (iOS Device)
 
