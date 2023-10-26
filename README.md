@@ -1,4 +1,4 @@
-#UI/UX Capstone
+# UI/UX Capstone
 
 ## Intro
 
