@@ -35,7 +35,7 @@ of the product details page, product size selected, product notification add to 
 
 ### Issue Resolved
 
-Product Details:
+Product Details: UX/UI inspired by the Ridgeline website. Based on the Double Diamond Structure User-Centered Design thinking, I organized and accumulated necessary 
 
 Product Size XL Selected:
 
@@ -58,3 +58,4 @@ URL: https://www.figma.com/file/GdYbANujP58DEzgoDOdSx0/Ridgeline-Wireframes?type
 
 URL: https://github.com/mmhasnat17/UIUX/blob/main/UI:UX_Hasnat.pdf
 
+## Reflection
