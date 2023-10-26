@@ -35,13 +35,20 @@ of the product details page, product size selected, product notification add to 
 
 ### Issue Resolved
 
-Product Details: UX/UI inspired by the Ridgeline website. Based on the Double Diamond Structure User-Centered Design thinking, I organized and accumulated necessary 
+Product Details: UX/UI inspired by the Ridgeline website. Based on the Double Diamond Structure User-Centered Design thinking, I sketched a reference wireframe, accumulated
+ideal photograph assets, icons, and product texts to design the first iteration of product details page.
 
-Product Size XL Selected:
+* Top Nav Bar contains: Shop, Contact, About, Sign Up, LogIn Button, and Cart
+* The first and third quadrant consist of the Model image enlarged and small for scroll functionality
+* The second and fourth quadrant consist of Product Name, description, Price, Color, Size, and Add to Bag Button
+* By default, color Yellow is selected hence bold border
 
-Product Add-to-Bag Notification:
+Product Size XL Selected: Branch iteration of the product details page. Size XL is selected hence bold border
 
-Product Image Scroller:
+Product Add-to-Bag Notification: Iteration of Product Size XL Sected page. Red notification added to the cart symbol to signify something was added to bag.
+
+Product Image Scroller: Branch Iteration of Product Details page. Added functional scroll to move to next and previous image. 
+In order to see this functionlality, please click restart in the bottom right.
 
 
 ### Link & Demo Walkthrough Instruction
@@ -59,3 +66,7 @@ URL: https://www.figma.com/file/GdYbANujP58DEzgoDOdSx0/Ridgeline-Wireframes?type
 URL: https://github.com/mmhasnat17/UIUX/blob/main/UI:UX_Hasnat.pdf
 
 ## Reflection
+
+The finalized UI/UX design may require additional divergent and convergent thinking process.
+In additon, we could implement the Ten Usability Hueristics to further enhance the quality of the UI/UX prototype.
+User Research from qualitative surveys or focus group are high advised. Business and other important stakeholders needs to define and approve the final acceptance criteria.
